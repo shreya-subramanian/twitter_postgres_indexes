@@ -1,0 +1,12 @@
+nohup: ignoring input
+time="2026-04-23T14:22:25-07:00" level=warning msg="/home/shsubramanian/twitter_postgres_indexes/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+psql:services/pg_denormalized/schema-indexes.sql:4: NOTICE:  word is too long to be indexed
+DETAIL:  Words longer than 2047 characters are ignored.
+psql:services/pg_denormalized/schema-indexes.sql:4: NOTICE:  word is too long to be indexed
+DETAIL:  Words longer than 2047 characters are ignored.
+psql:services/pg_denormalized/schema-indexes.sql:4: NOTICE:  word is too long to be indexed
+DETAIL:  Words longer than 2047 characters are ignored.
+CREATE INDEX
